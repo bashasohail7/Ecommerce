@@ -84,7 +84,6 @@
     }
   ],
   "inputdata": [
-    
     {
       "fname": "Sulemn",
       "lname": "Basha",
@@ -95,7 +94,16 @@
       "state": "Assam",
       "dist": "Cachar",
       "address": "28/1480,nandyal",
-      "id": 11
+      "id": 1
+    },
+    {
+      "fname": "Farhana",
+      "dob": "2021-09-24",
+      "gender": "female",
+      "email": "hhh@gmail.com",
+      "state": "Andhra Pradesh",
+      "dist": "Nellore",
+      "id": 2
     }
   ]
 }

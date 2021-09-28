@@ -7,6 +7,8 @@ export default function Details() {
 
     const getdata=()=>{
 axios.get(' http://localhost:3001/inputdata')
+// .then(result=>updatedetails(result.data))
+
 .then(res=>{
     axios.get(' http://localhost:3001/inputdata',{params:{id:res.data.length}})
     .then(result=>updatedetails(result.data))
