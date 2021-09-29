@@ -1,0 +1,154 @@
+{
+  "product": [
+    {
+      "name": " Running shoes",
+      "price": "4,000",
+      "img": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmlrZSUyMHNob2V8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "Nike Men's Shoes",
+      "category": "Fashion",
+      "userid": ""
+    },
+    {
+      "name": "HP Pavilion Gaming 15.6-inch(39.62 cms) FHD Gaming Laptop",
+      "price": "68,000",
+      "img": "https://images-eu.ssl-images-amazon.com/images/I/41CED+NsupL.jpg",
+      "desc": "HP Pavilion Gaming Laptop",
+      "category": "Electronics",
+      "userid": ""
+    },
+    {
+      "name": "Men's Plain T-shirt",
+      "price": "400",
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmdzfGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "T-shirt for casual wear",
+      "category": "Fashion",
+      "userid": ""
+    },
+    {
+      "name": "Apple airpods",
+      "price": "60,000",
+      "img": "https://m.media-amazon.com/images/I/81jkMpNHVsL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": " Apple airpods max ",
+      "category": "Electronics",
+      "userid": ""
+    },
+    {
+      "name": "Garnier Facewash",
+      "price": "238",
+      "img": "https://m.media-amazon.com/images/I/51PMFyEZS7L._AC_UL320_.jpg",
+      "desc": "Garnier Skin Naturals",
+      "category": "Beauty",
+      "userid": ""
+    },
+    {
+      "name": "Hitachi ",
+      "price": "60,000",
+      "img": "https://images-eu.ssl-images-amazon.com/images/I/51gom9JKrNS._AC_UL160_SR160,160_.jpg",
+      "desc": "Hitachi Ac 2 Ton 5star",
+      "category": "Home Appliances",
+      "userid": ""
+    },
+    {
+      "name": "Washing Machine ",
+      "price": "37,000",
+      "img": "https://m.media-amazon.com/images/I/41ES0GyXGcL._AC_SR160,160_.jpg",
+      "desc": "Bosch 8kg 5 Star Fully-Automatic ",
+      "category": "Home Appliances",
+      "userid": ""
+    },
+    {
+      "name": "Home Gym Set ",
+      "price": "1,125",
+      "img": "https://m.media-amazon.com/images/I/41o4MuE23CL._AC_UL320_.jpg",
+      "desc": "Home Gym Set",
+      "category": "Fitness",
+      "userid": ""
+    },
+    {
+      "name": "Oreo ",
+      "price": "300",
+      "img": "https://m.media-amazon.com/images/I/71vIUIWF+xS._AC_UL320_.jpg",
+      "desc": "Oreo Cadbury combo biscuits ",
+      "category": "Food",
+      "userid": ""
+    },
+    {
+      "name": "Ashirvaad Atta 5kgs",
+      "price": "350",
+      "img": "https://m.media-amazon.com/images/I/91o0m2iIpVL._AC_UL320_.jpg",
+      "desc": "Ashirvaad Atta 5kgs ",
+      "category": "Grocery",
+      "userid": ""
+    },
+    {
+      "name": "Honey ",
+      "price": "300",
+      "img": "https://m.media-amazon.com/images/I/81pD31wsNmL._AC_UL320_.jpg",
+      "desc": "Dabur Organic Honey ",
+      "category": "Food",
+      "userid": ""
+    },
+    {
+      "name": "Lakme Lipstick ",
+      "price": "525",
+      "img": "https://m.media-amazon.com/images/I/51jEH4VZaqS._AC_UL320_.jpg",
+      "desc": "Lakme Lipstick Rose Day (Matte) ",
+      "category": "Beauty",
+      "userid": ""
+    },
+    {
+      "name": "Whey Protein Powder-2.27kg ",
+      "price": "5,999",
+      "img": "https://m.media-amazon.com/images/I/616cI2pfTOL._AC_UL320_.jpg",
+      "desc": "Whey Protein Powder-2.27kg",
+      "category": "Fitness",
+      "userid": ""
+    },
+    {
+      "name": "Surf Excel 4kgs",
+      "price": "423",
+      "img": "https://m.media-amazon.com/images/I/61rDJVoKpeL._AC_UL320_.jpg",
+      "desc": "Surf Excel 4kgs",
+      "category": "Grocery",
+      "userid": ""
+    }
+  ],
+  "myorder": [
+    {
+      "name": "Apple airpods",
+      "price": "60,000",
+      "img": "https://m.media-amazon.com/images/I/81jkMpNHVsL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": " Apple airpods max ",
+      "category": "Electronics",
+      "userid": "4",
+      "id": 1
+    },
+    {
+      "name": " Running shoes",
+      "price": "4,000",
+      "img": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmlrZSUyMHNob2V8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "Nike Men's Shoes",
+      "category": "Fashion",
+      "userid": "5",
+      "id": 2
+    },
+    {
+      "name": "Apple airpods",
+      "price": "60,000",
+      "img": "https://m.media-amazon.com/images/I/81jkMpNHVsL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": " Apple airpods max ",
+      "category": "Electronics",
+      "userid": "5",
+      "id": 3
+    },
+    {
+      "name": "Men's Plain T-shirt",
+      "price": "400",
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmdzfGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "desc": "T-shirt for casual wear",
+      "category": "Fashion",
+      "userid": null,
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "vendorlist": [
+    {
+      "vendorname": "Sulthan",
+      "email": "sulthan@gmail.com",
+      "mobile": "8877445599",
+      "password": "sulthan123",
+      "id": 1
+    },
+    {
+      "vendorname": "Shahjahan",
+      "email": "shahjahan@gmail.com",
+      "mobile": "8877445599",
+      "password": "shahjahan123",
+      "id": 2
+    },
+    {
+      "vendorname": "Suleman",
+      "email": "suleman@gmail.com",
+      "mobile": "8877445599",
+      "password": "suelman123",
+      "id": 3
+    },
+    {
+      "vendorname": "Ruksana",
+      "email": "ruksana@gmail.com",
+      "mobile": "8877445599",
+      "password": "rukjana123",
+      "id": 4
+    },
+    {
+      "vendorname": "Farhana",
+      "email": "farhana@gmail.com",
+      "mobile": "8877445599",
+      "password": "farhana123",
+      "id": 5
+    },
+    {
+      "vendorname": "Sohail",
+      "email": "sohail@gmail.com",
+      "mobile": "8877445599",
+      "password": "sohail123",
+      "id": 6
+    },
+    {
+      "vendorname": "hemanth",
+      "email": "hemanth@gmail.com",
+      "mobile": "9988774455",
+      "password": "hemanth123",
+      "id": 7
+    },
+    {
+      "vendorname": "",
+      "email": "ruksana@gmail.com",
+      "mobile": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "vendorname": "",
+      "email": "ewdead@gmail.com",
+      "mobile": "",
+      "password": "",
+      "id": 9
+    }
+  ]
+}

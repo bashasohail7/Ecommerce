@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+
+.closeEye::after{
+  content: '\f070';
+  font-family: 'Font Awesome 5 Free';
+  /* right:0; */
+  left:0
+}
+.newRegisterLink{
+  color: 'red' !important;
+}
+.productCard{
+  float: left;
+  box-shadow: 0px 0px 5px grey;
+  
+  width: 22% !important;
+  display: flex;
+  flex-wrap: wrap;
+  /* margin: auto; */
+  margin: 1.5%; 
+  flex-direction: row !important; 
+  justify-content:space-around !important ;
+  justify-content: center;
+  /* align-items: center; */
+  margin-bottom: 10px;
+}
+.productImg{
+  height: 200px !important;
+  width:200px;
+  background-color: white !important;
+} 
+.navv{
+  margin-left: auto !important;
+}
+.filters ul li{
+  display: inline;
+  background-color: lightblue;
+  padding: 5px;
+  border-radius: 10px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+#desc{
+  font-weight: bold;
+  margin-top: 15px;
+}
+.fa-trash-alt:hover{
+cursor: pointer;
+}
